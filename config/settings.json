@@ -1,0 +1,17 @@
+
+{
+    "api_key": "t.daT8IHXn3o57U5TFtfvhj2MgkkYYOqMqmP3FM4Ih5DvRyt0-B6KcYe4Dw6qNP3Jx-DtdQ2tTG6uS3Ib2OBP7iQ",
+    "full_api_key": "t.6TqqT4SI1mdu45UKee_QjMTzva6BpvhWbh1p7Y6Yb1DtdtOQ0MY26SNjx5RbM_gZhz-Yc9m85xxoovvq6ME9dQ",
+    "mode": "sandbox",
+    "telegram_token": "7606843377:AAGDZ3idihpE_rsEE0rNiE4vu-O8C62Jxz8",
+    "telegram_chat_id": "your_chat_id",
+    "auto_trading": false,
+    "strategy": {
+        "rsi_long": 45,
+        "rsi_short": 55,
+        "stoch_long": 30,
+        "stoch_short": 70,
+        "imbalance_bullish": 1.2,
+        "imbalance_bearish": 0.8
+    }
+}
